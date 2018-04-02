@@ -3,6 +3,8 @@
 ## Goal
 Create an RPG with no graphics (use console). Must have a story line that is cohesive throughout each scene. 
 
+**Only one computer was allowed to be used at a time**
+
 ## Each team's must haves
 - Must have a beginning and an end
 - Must have multiple scenarios, each must be different
