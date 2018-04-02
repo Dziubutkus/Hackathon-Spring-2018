@@ -25,3 +25,8 @@ Create an RPG with no graphics (use console). Must have a story line that is coh
 - Load the game from the "save" file
 - Be able to have multiple saves and load any of them
 - Have a progress bar
+
+## Team
+- Dziugas Butkus
+- Michael Bearly	
+- Najy Faour
